@@ -1,6 +1,5 @@
-"""
-https://stepik.org/lesson/41234/step/4
-"""
+#https://stepik.org/lesson/41234/step/4
+
 import sys
 
 class Stack:
