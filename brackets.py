@@ -1,6 +1,5 @@
-"""
-https://stepik.org/lesson/41234/step/1
-"""
+#https://stepik.org/lesson/41234/step/1
+
 def braces_check(line):
     stack = []
     opening_stack = []
