@@ -1,6 +1,5 @@
-"""
-https://stepik.org/lesson/41234/step/5
-"""
+#https://stepik.org/lesson/41234/step/5
+
 class Stack:
     def __init__(self):
         self._cup = []
