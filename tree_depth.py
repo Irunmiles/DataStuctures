@@ -1,6 +1,5 @@
-"""
-https://stepik.org/lesson/41234/step/2
-"""
+#https://stepik.org/lesson/41234/step/2
+
 import sys
 sys.setrecursionlimit(2000)
 
